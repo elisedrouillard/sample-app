@@ -1,0 +1,5 @@
+.kube/
+.config/
+.ssh/
+.bash_history
+.gcloud/
